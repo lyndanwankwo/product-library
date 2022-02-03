@@ -1,4 +1,14 @@
 {
+  "plugins": {
+    "getPerilRates":{
+      "path": "bop_retail/rater.js",
+      "enabled": true
+    },
+    "getUnderwritingResult":{
+      "path": "bop_retail/underwriter.js",
+      "enabled": true
+    }
+  },
   "fields": [
     {
       "name": "channel",

@@ -1,0 +1,7 @@
+[
+    {
+      "name": "account_name",
+      "type": "string",
+      "searchable": true
+    } 
+  ]

@@ -1,0 +1,20 @@
+{
+    "pages": [
+      {
+        "sections": [
+          {
+            "title": "Account Information",
+            "fields": [
+              {
+                "name": "account_name",
+                "prompt": "Account Name",
+                "required": true,
+                "updateable": true,
+                "width": 12
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
